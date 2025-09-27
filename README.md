@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🚀 About Me
+Backend developer crafting APIs and real-time systems with a focus on performance and clarity.  
 <!--
 **AmirM-S/AmirM-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
