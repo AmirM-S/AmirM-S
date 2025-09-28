@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi, I'm AmirMohammad👋
 
 ## 🚀 About Me
-Backend developer crafting APIs and real-time systems with a focus on performance and clarity.  
+Passionate about problem-solving and building reliable backend systems.
 
 
 ## 🛠️ Technical Skills
