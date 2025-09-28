@@ -5,7 +5,7 @@
 ## 🛠️ Skills
 * **Languages & Frameworks:** JavaScript, TypeScript, Node.js (Express.js, NestJS)
 * **Databases & Messaging:** PostgreSQL, MongoDB, Redis, RabbitMQ
-* **APIs & Real-Time:** REST, GraphQL (basic), Socket.IO
+* **APIs & Real-Time:** REST, GraphQL, Socket.IO
 * **Tools & DevOps:** Docker, Git, Linux, Jira
 
 ##
