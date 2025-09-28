@@ -1,10 +1,8 @@
-## Hi, I'm AmirMohammad👋
-
-## 🚀 About Me
-Passionate about problem-solving and building reliable backend systems.
+## 💫  About Me
+ Hi, I'm AmirMohammad, I love problem-solving and building reliable backend systems.
 
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 * **Languages & Frameworks:** JavaScript, TypeScript, Node.js (Express.js, NestJS)
 * **Databases & Messaging:** PostgreSQL, MongoDB, Redis, RabbitMQ
 * **APIs & Real-Time:** REST, GraphQL (basic), Socket.IO
