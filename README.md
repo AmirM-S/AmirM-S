@@ -10,7 +10,8 @@
 * **Tools & DevOps:** Docker, Git/GitHub, Linux, Jira
 * **Principles:** FP, OOP, SOLID, Design patterns
 
-📫 Amsadeghi79@gmail.com
+##
+📫: [Amsadeghi79@gmail.com](mailto:Amsadeghi79@gmail.com)
 <!--
 **AmirM-S/AmirM-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
