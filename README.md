@@ -10,7 +10,7 @@ Backend developer crafting APIs and real-time systems with a focus on performanc
 * **APIs & Real-Time:** REST, GraphQL (basic), Socket.IO
 * **Testing:** Jest, TDD/BDD concepts
 * **Tools & DevOps:** Docker, Git/GitHub, Linux, Jira
-* **Principles:** OOP, SOLID, Design patterns
+* **Principles:** FP, OOP, SOLID, Design patterns
 
 <!--
 **AmirM-S/AmirM-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
